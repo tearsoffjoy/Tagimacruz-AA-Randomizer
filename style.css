@@ -1,0 +1,68 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+    background-image: radial-gradient(rgb(233, 88, 110), rgb(238, 219, 219));
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.randomizer {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+}
+
+.random1 {
+    margin: 30px;
+    padding: 10% 6%;
+    width: 4%;
+    height: 6%;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: rgb(53, 37, 8);
+    background-color: pink;
+}
+
+.random2 {
+    margin: 30px;
+    padding: 10% 6%;
+    width: 4%;
+    height: 6%;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: rgb(53, 37, 8);
+    background-color: pink;
+}
+.random3 {
+    margin: 30px;
+    padding: 10% 6%;
+    width: 4%;
+    height: 6%;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: rgb(53, 37, 8);
+    background-color: pink;
+}
+.title {
+    font-size: 40px;
+    font-family: serif;
+    color: rgb(53, 37, 8);
+    text-align: center;
+    margin-top: 25px;
+}
+h2 {
+    font-size: 20px;
+    color: rgb(53, 37, 8);
+    margin-top: 15px;
+    border-bottom: solid rgb(214, 95, 115) 1px;
+}
+h3 {
+        color: rgb(53, 37, 8);
+        text-align: center;
+        margin-top: 5px;
+}
+
+
